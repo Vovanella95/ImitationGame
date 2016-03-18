@@ -1,0 +1,12 @@
+D:\Xamarin\ImitationGame\ImitationGame.Lab1\bin\Debug\ImitationGame.Lab1.dll
+D:\Xamarin\ImitationGame\ImitationGame.Lab1\bin\Debug\ImitationGame.Lab1.pdb
+D:\Xamarin\ImitationGame\ImitationGame.Lab1\bin\Debug\MvvmCross.Binding.dll
+D:\Xamarin\ImitationGame\ImitationGame.Lab1\bin\Debug\MvvmCross.Core.dll
+D:\Xamarin\ImitationGame\ImitationGame.Lab1\bin\Debug\MvvmCross.Localization.dll
+D:\Xamarin\ImitationGame\ImitationGame.Lab1\bin\Debug\MvvmCross.Platform.dll
+D:\Xamarin\ImitationGame\ImitationGame.Lab1\obj\Debug\ImitationGame.Lab1.dll
+D:\Xamarin\ImitationGame\ImitationGame.Lab1\obj\Debug\ImitationGame.Lab1.pdb
+D:\Xamarin\ImitationGame\ImitationGame.Lab1\bin\Debug\ImitationGame.Lab1.Models.dll
+D:\Xamarin\ImitationGame\ImitationGame.Lab1\bin\Debug\ImitationGame.Lab1.Models.pdb
+D:\Xamarin\ImitationGame\ImitationGame.Lab1\obj\Debug\ImitationGame.Lab1.csprojResolveAssemblyReference.cache
+D:\Xamarin\ImitationGame\ImitationGame.Lab1\bin\Debug\MvvmCross.Plugins.ThreadUtils.dll

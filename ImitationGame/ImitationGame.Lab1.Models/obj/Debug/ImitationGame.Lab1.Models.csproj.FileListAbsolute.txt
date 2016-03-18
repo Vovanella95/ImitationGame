@@ -1,0 +1,5 @@
+D:\Xamarin\ImitationGame\ImitationGame.Lab1.Models\bin\Debug\ImitationGame.Lab1.Models.dll
+D:\Xamarin\ImitationGame\ImitationGame.Lab1.Models\bin\Debug\ImitationGame.Lab1.Models.pdb
+D:\Xamarin\ImitationGame\ImitationGame.Lab1.Models\obj\Debug\ImitationGame.Lab1.Models.csprojResolveAssemblyReference.cache
+D:\Xamarin\ImitationGame\ImitationGame.Lab1.Models\obj\Debug\ImitationGame.Lab1.Models.dll
+D:\Xamarin\ImitationGame\ImitationGame.Lab1.Models\obj\Debug\ImitationGame.Lab1.Models.pdb
