@@ -10,3 +10,15 @@ D:\Xamarin\ImitationGame\ImitationGame.Lab1\bin\Debug\ImitationGame.Lab1.Models.
 D:\Xamarin\ImitationGame\ImitationGame.Lab1\bin\Debug\ImitationGame.Lab1.Models.pdb
 D:\Xamarin\ImitationGame\ImitationGame.Lab1\obj\Debug\ImitationGame.Lab1.csprojResolveAssemblyReference.cache
 D:\Xamarin\ImitationGame\ImitationGame.Lab1\bin\Debug\MvvmCross.Plugins.ThreadUtils.dll
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab1\bin\Debug\ImitationGame.Lab1.dll
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab1\bin\Debug\ImitationGame.Lab1.pdb
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab1\bin\Debug\ImitationGame.Lab1.Models.dll
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab1\bin\Debug\MvvmCross.Binding.dll
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab1\bin\Debug\MvvmCross.Core.dll
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab1\bin\Debug\MvvmCross.Localization.dll
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab1\bin\Debug\MvvmCross.Platform.dll
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab1\bin\Debug\MvvmCross.Plugins.ThreadUtils.dll
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab1\bin\Debug\ImitationGame.Lab1.Models.pdb
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab1\obj\Debug\ImitationGame.Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab1\obj\Debug\ImitationGame.Lab1.dll
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab1\obj\Debug\ImitationGame.Lab1.pdb

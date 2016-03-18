@@ -30,9 +30,8 @@ namespace ImitationGame.Lab1.ViewModels
         {
             Children = new List<Ellipse>
             {
-                new Ellipse(10, 2, 34, 1, 80, 4),
-                new Ellipse(15, 6, 12, 5, 1, 6),
-                new Ellipse(1, 40, 40, 1, 3 * Math.PI/2.0, 12),
+                new Ellipse(10, 100, 100, 0, 80, 4),
+                new Ellipse(10, 150, 200, 0, 80, 4),
             };
             DeltaT = 0.001;
             RaiseAllPropertiesChanged();
