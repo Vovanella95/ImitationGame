@@ -1,0 +1,6 @@
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab3\bin\Debug\ImitationGame.Lab3.exe.config
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab3\bin\Debug\ImitationGame.Lab3.exe
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab3\bin\Debug\ImitationGame.Lab3.pdb
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab3\obj\Debug\ImitationGame.Lab3.exe
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab3\obj\Debug\ImitationGame.Lab3.pdb
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab3\obj\Debug\ImitationGame.Lab3.csprojResolveAssemblyReference.cache

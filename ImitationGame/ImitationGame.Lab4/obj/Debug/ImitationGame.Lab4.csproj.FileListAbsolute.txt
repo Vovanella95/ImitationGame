@@ -1,0 +1,5 @@
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab4\bin\Debug\ImitationGame.Lab4.exe.config
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab4\bin\Debug\ImitationGame.Lab4.exe
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab4\bin\Debug\ImitationGame.Lab4.pdb
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab4\obj\Debug\ImitationGame.Lab4.exe
+C:\Users\Uladzimir_Paliukhovi\Documents\ImitationGame\ImitationGame\ImitationGame.Lab4\obj\Debug\ImitationGame.Lab4.pdb
